@@ -1,0 +1,9 @@
+D:\cammsys\project\avm200CreateSysConf\createSysConf\bin\Debug\createSysConf.exe.config
+D:\cammsys\project\avm200CreateSysConf\createSysConf\bin\Debug\createSysConf.exe
+D:\cammsys\project\avm200CreateSysConf\createSysConf\bin\Debug\createSysConf.pdb
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Debug\createSysConf.csprojResolveAssemblyReference.cache
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Debug\createSysConf.Form1.resources
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Debug\createSysConf.Properties.Resources.resources
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Debug\createSysConf.csproj.GenerateResource.Cache
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Debug\createSysConf.exe
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Debug\createSysConf.pdb

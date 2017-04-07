@@ -1,0 +1,8 @@
+D:\cammsys\project\avm200CreateSysConf\createSysConf\bin\Release\createSysConf.exe.config
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Release\createSysConf.Form1.resources
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Release\createSysConf.Properties.Resources.resources
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Release\createSysConf.csproj.GenerateResource.Cache
+D:\cammsys\project\avm200CreateSysConf\createSysConf\bin\Release\createSysConf.exe
+D:\cammsys\project\avm200CreateSysConf\createSysConf\bin\Release\createSysConf.pdb
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Release\createSysConf.exe
+D:\cammsys\project\avm200CreateSysConf\createSysConf\obj\Release\createSysConf.pdb
